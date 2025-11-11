@@ -1,6 +1,6 @@
 <!-- ⚡ CYBERPUNK HEADER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElabeidiTech/ElabeidiTech/main/banner.png" width="100%" alt="ElabeidiTech Banner">
+  <img src="https://raw.githubusercontent.com/ElabeidiTech/ElabeidiTech/main/banner.png" width="60%" alt="ElabeidiTech Banner">
 </p>
 
 <h1 align="center">
@@ -29,16 +29,13 @@
 ---
 
 ### 💻 **Live Code Simulation**
-```javascript
-const developer = {
-  name: "ElabeidiTech",
-  skills: ["AI", "Cybersecurity", "Full Stack Dev"],
-  projects: ["TransFi", "SmartLMS", "9Keys"],
-  motto: "Learning. Building. Evolving.",
-};
 
-while(true) {
-  developer.learn();
-  developer.build();
-  developer.evolve();
-}
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&lines=const+ElabeidiTech+=+%7B;skills:+['AI','Cybersecurity','Full+Stack'];projects:+['TransFi','SmartLMS','9Keys'];motto:+Learning+.+Building+.+Evolving.;%7D" alt="Live Code Simulation"/>
+</p>
+
+
+
+
+
+
