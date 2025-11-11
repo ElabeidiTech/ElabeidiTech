@@ -1,6 +1,6 @@
 <!-- 🌌 HEADER BANNER -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ElabeidiTech/ElabeidiTech/main/assets/banner.png" alt="ElabeidiTech Banner" width="100%">
+  <img src="https://raw.githubusercontent.com/ElabeidiTech/ElabeidiTech/abanner.png" alt="ElabeidiTech Banner" width="100%">
 </p>
 
 <h1 align="center">👋 Welcome to <span style="color:#00d9ff;">ElabeidiTech</span></h1>
