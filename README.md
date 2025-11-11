@@ -23,16 +23,20 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/ElabeidiTech/ElabeidiTech/assets/glowbar.gif" width="80%">
+  <img src="https://github.com/ElabeidiTech/ElabeidiTech/assets/glowbar.gif" width="50%">
 </p>
 
 ---
 
 ### 💻 **Live Code Simulation**
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=700&lines=const+ElabeidiTech+=+%7B;skills:+['AI','Cybersecurity','Full+Stack'];projects:+['TransFi','SmartLMS','9Keys'];motto:+Learning+.+Building+.+Evolving.;%7D" alt="Live Code Simulation"/>
+  <img 
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=500&color=00FFFF&center=true&vCenter=true&multiline=true&width=500&height=120&repeat=true&lines=const+ElabeidiTech+=+%7B;skills:+['AI','Cybersecurity','Full+Stack'];motto:+Learning+.+Building+.+Evolving.;%7D"
+    alt="Live Code Simulation"
+    style="max-width: 100%; height: auto;"
+  />
 </p>
+
 
 
 
